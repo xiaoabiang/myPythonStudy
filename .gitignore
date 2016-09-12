@@ -1,0 +1,12 @@
+# python
+*.py[cod]
+__*__
+
+
+# images
+*.JPG
+*.jpg
+
+# vim
+*.swp
+
